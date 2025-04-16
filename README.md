@@ -1,2 +1,1 @@
-# Third-project
-Third project on github
+Conducted an end-to-end exploratory data analysis on customer, order, delivery, and completion datasets across a 9-month window to derive actionable business intelligence. The objective was to identify key operational trends, optimize logistics, and improve marketing and customer engagement strategies for a fictional e-commerce delivery-based platform.
